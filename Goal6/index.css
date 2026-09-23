@@ -1,0 +1,17 @@
+.main-container{
+    padding: 10px;
+    background-color: blue;
+    border: 10px solid rgb(121, 13, 121);
+}
+.yellow-text{
+    color: yellow;
+    margin: 0px;
+}
+.red-box{
+    background-color: red;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.white-text{
+    color: white;
+}

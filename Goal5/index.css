@@ -1,0 +1,24 @@
+.container-1{
+    background-color: rgb(13, 148, 153);
+    width: 200px;
+    border: 10px solid black;
+    padding: 20px;
+}
+
+.container-2{
+    margin-left: 260px;
+    background-color: rgb(250, 212, 0);
+    border-top: 20px solid black;
+    border-bottom: 20px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    width: 200px;
+    height: 200px;
+}
+.container-3{
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    background-color: rgb(168, 66, 66);
+    margin-left: 40px;
+}

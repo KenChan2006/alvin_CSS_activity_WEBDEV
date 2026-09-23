@@ -1,0 +1,22 @@
+h1, h2{
+    color: rgb(137, 17, 236);
+}
+.box p.done{
+    color: brown;
+}
+.list li{
+    color: blue;
+}
+.list .done{
+    color: green;
+}
+p .done{
+    color: black;
+}
+ul p.done{
+    color: black;
+    font-size: 6px;
+}
+p{
+    color: black;
+}

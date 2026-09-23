@@ -1,0 +1,21 @@
+*{
+    color: white;
+}
+body{
+    background: rgb(10, 160, 247);
+}
+.color{
+    color: red;
+}
+h2{
+    font-size: xx-large;
+}
+.font-weight{
+    font-weight: bolder;
+}
+.font-family{
+    font-family:serif;
+}
+.text-align{
+    text-align: end;
+}

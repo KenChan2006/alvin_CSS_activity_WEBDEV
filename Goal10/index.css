@@ -1,0 +1,25 @@
+.container-red{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    display: block;
+    color: white;
+    margin-bottom: 10px;
+    
+}
+.container-green{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    display: block;
+    color: white;
+    margin-bottom: 10px;
+}
+.container-blue{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    display: block;
+    color: white;
+    margin-bottom: 10px;
+}
